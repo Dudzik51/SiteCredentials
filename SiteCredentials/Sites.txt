@@ -1,0 +1,3 @@
+﻿Googlemail http://mail.google.com/ Username Password
+Westlaw http://web2.westlaw.com/ Password
+Factiva http://global.factiva.com/ UserId Password NameSpace
